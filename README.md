@@ -22,4 +22,3 @@ Most important though...HAVE FUN!!!!!!!
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-my-website' title='My Super Awesome and Amazing Website!!!!!'>My Super Awesome and Amazing Website!!!!!</a> on Learn.co and start learning to code for free.</p>
